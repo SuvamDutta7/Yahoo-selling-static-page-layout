@@ -1,0 +1,72 @@
+body{
+    
+    padding-top: 20px;
+    
+    padding-bottom: 20px;
+    
+    background-color: seashell;
+    
+}
+
+.nav {
+    
+    background-color: #eee;
+
+}
+
+
+.nav-justified > li > a {
+    
+    padding: 10px 0;
+    
+    color: #777;
+    
+    background-color: #e5e5e5;;
+    
+}
+
+.jumbotron {
+    
+    text-align: center;
+    
+    background-color:transparent;
+    
+    
+}
+
+.jumbotron > p > a {
+    
+    padding: 10px 25px ;
+    
+}
+
+.row{
+    
+    padding-bottom: 50px;
+   
+    
+}
+
+
+/*for fixed footer open*/
+
+footer{
+    
+    background-color: #eee;
+    
+     text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: fixed;
+    
+   left: 0;                  
+    bottom: 0;
+   width: 100%;
+    
+}
+
+
+/*for fixed footer closed*/
+
+
+
